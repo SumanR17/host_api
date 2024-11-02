@@ -1,0 +1,162 @@
+{
+            "centers": [
+            {
+                "center_id": 101010,
+                "name": "Health Clinic 1",
+                "address": "Street 10, Downtown, Mumbai, Maharashtra 400001",
+                "state_name": "Maharashtra",
+                "district_name": "Mumbai",
+                "block_name": "South Block",
+                "pincode": 400001,
+                "lat": 19.07,
+                "long": 72.87,
+                "from": "09:00:00",
+                "to": "18:00:00",
+                "fee_type": "Free",
+                "sessions": [
+                    {
+                        "session_id": "session001",
+                        "date": "10-06-2021",
+                        "available_capacity": 50,
+                        "min_age_limit": 18,
+                        "vaccine": "COVISHIELD",
+                        "slots": [
+                            "09:00AM-11:00AM",
+                            "11:00AM-01:00PM",
+                            "01:00PM-03:00PM",
+                            "03:00PM-05:00PM"
+                        ]
+                    }
+                ]
+            },
+            {
+                "center_id": 202020,
+                "name": "Health Clinic 2",
+                "address": "Street 15, Andheri West, Mumbai, Maharashtra 400058",
+                "state_name": "Maharashtra",
+                "district_name": "Mumbai",
+                "block_name": "West Block",
+                "pincode": 400058,
+                "lat": 19.12,
+                "long": 72.83,
+                "from": "08:00:00",
+                "to": "15:00:00",
+                "fee_type": "Paid",
+                "vaccine_fees": [
+                    {
+                        "vaccine": "COVAXIN",
+                        "fee": "1500"
+                    }
+                ],
+                "sessions": [
+                    {
+                        "session_id": "session002",
+                        "date": "11-06-2021",
+                        "available_capacity": 25,
+                        "min_age_limit": 45,
+                        "vaccine": "COVAXIN",
+                        "slots": [
+                            "08:00AM-10:00AM",
+                            "10:00AM-12:00PM",
+                            "12:00PM-02:00PM"
+                        ]
+                    }
+                ]
+            },
+            {
+                "center_id": 789456,
+                "name": "Community Health Center SITE 1",
+                "address": "Sector 23, Noida, Uttar Pradesh 201301",
+                "state_name": "Uttar Pradesh",
+                "district_name": "Gautam Buddha Nagar",
+                "block_name": "Not Applicable",
+                "pincode": 201301,
+                "lat": 28.5,
+                "long": 77.3,
+                "from": "09:00:00",
+                "to": "17:00:00",
+                "fee_type": "Free",
+                "sessions": [
+                    {
+                        "session_id": "abc12345-d678-9101-1121-314151617181",
+                        "date": "15-06-2021",
+                        "available_capacity": 10,
+                        "min_age_limit": 18,
+                        "vaccine": "COVAXIN",
+                        "slots": [
+                            "09:00AM-11:00AM",
+                            "11:00AM-01:00PM",
+                            "01:00PM-03:00PM",
+                            "03:00PM-05:00PM"
+                        ]
+                    }
+                ]
+            },
+            {
+                "center_id": 123654,
+                "name": "City Hospital SITE 2",
+                "address": "MG Road, Gurugram, Haryana 122001",
+                "state_name": "Haryana",
+                "district_name": "Gurugram",
+                "block_name": "Not Applicable",
+                "pincode": 122001,
+                "lat": 28.47,
+                "long": 77.03,
+                "from": "09:00:00",
+                "to": "16:00:00",
+                "fee_type": "Paid",
+                "vaccine_fees": [
+                    {
+                        "vaccine": "COVAXIN",
+                        "fee": "1200"
+                    }
+                ],
+                "sessions": [
+                    {
+                        "session_id": "def67891-1234-5678-9101-314151617181",
+                        "date": "16-06-2021",
+                        "available_capacity": 5,
+                        "min_age_limit": 45,
+                        "vaccine": "COVAXIN",
+                        "slots": [
+                            "09:00AM-11:00AM",
+                            "11:00AM-01:00PM",
+                            "01:00PM-03:00PM",
+                            "03:00PM-05:00PM"
+                        ]
+                    }
+                ]
+            },
+            {
+                "center_id": 963852,
+                "name": "Primary Health Center SITE 3",
+                "address": "Old Delhi Road, New Delhi, Delhi 110002",
+                "state_name": "Delhi",
+                "district_name": "New Delhi",
+                "block_name": "Central Block",
+                "pincode": 560067,
+                "lat": 28.7,
+                "long": 77.2,
+                "from": "08:00:00",
+                "to": "18:00:00",
+                "fee_type": "Free",
+                "sessions": [
+                    {
+                        "session_id": "ghi91234-5678-9101-1121-314151617181",
+                        "date": "19-10-2024",
+                        "available_capacity": 20,
+                        "min_age_limit": 18,
+                        "vaccine": "SPUTNIK V",
+                        "slots": [
+                            "08:00AM-10:00AM",
+                            "10:00AM-12:00PM",
+                            "12:00PM-02:00PM",
+                            "02:00PM-04:00PM",
+                            "04:00PM-06:00PM"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
